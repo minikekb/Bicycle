@@ -1098,3 +1098,421 @@ Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-22 17:
   
 ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
   
+Started GET "/" for 127.0.0.1 at 2024-03-25 18:20:09 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 309)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 1577)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 3943)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-25 18:20:09 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-25 18:20:10 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | Allocations: 572)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 818)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-25 18:20:10 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:31:22 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 310)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | Allocations: 1554)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 3920)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:31:22 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:38:29 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 4.0ms | Allocations: 569)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 815)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:38:29 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:38:44 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 118)
+  Rendered layout layouts/application.html.erb (Duration: 3.3ms | Allocations: 943)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 1552)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:38:44 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:38:44 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | Allocations: 565)
+Completed 200 OK in 2ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 810)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:38:44 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:38:49 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 118)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 953)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 1573)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:38:49 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:38:54 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 118)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 932)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 1542)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:38:54 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:38:58 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 117)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | Allocations: 948)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 1558)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:38:58 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:39:06 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 118)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | Allocations: 934)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1546)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:39:06 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:39:10 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 117)
+  Rendered layout layouts/application.html.erb (Duration: 3.3ms | Allocations: 954)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 1589)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:39:10 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:49:38 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | Allocations: 571)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 815)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:49:38 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:49:39 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | Allocations: 559)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 805)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:49:39 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:50:05 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 309)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | Allocations: 1565)
+Completed 200 OK in 5ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 3931)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:50:05 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:52:15 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 10)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | Allocations: 653)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 1161)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:52:15 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:52:15 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | Allocations: 563)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 806)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:52:15 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:52:23 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 309)
+  Rendered layout layouts/application.html.erb (Duration: 2.1ms | Allocations: 1553)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 3919)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:52:23 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:57:57 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 563)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 809)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:57:57 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:58:01 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 0.8ms | Allocations: 557)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 801)
+
+
+Started GET "/app/assets/builds/application.css" for 127.0.0.1 at 2024-03-26 16:58:01 +0500
+  
+ActionController::RoutingError (No route matches [GET] "/app/assets/builds/application.css"):
+  
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:59:43 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 7.8ms | Allocations: 306)
+  Rendered layout layouts/application.html.erb (Duration: 9.1ms | Allocations: 1047)
+Completed 200 OK in 15ms (Views: 14.8ms | ActiveRecord: 0.0ms | Allocations: 1656)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 16:59:47 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | Allocations: 651)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 895)
+
+
+Started GET "/" for ::1 at 2024-03-26 17:00:20 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.8ms | Allocations: 642)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1730)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 4096)
+
+
+Started GET "/" for ::1 at 2024-03-26 17:00:26 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 695)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 940)
+
+
+Started GET "/" for ::1 at 2024-03-26 17:00:55 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.7ms | Allocations: 642)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 1709)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 4075)
+
+
+Started GET "/" for ::1 at 2024-03-26 17:00:56 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | Allocations: 716)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 961)
+
+
+Started GET "/" for ::1 at 2024-03-26 17:00:58 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 711)
+Completed 200 OK in 2ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 955)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:01:07 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 641)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 1675)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4041)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:01:08 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1.2ms | Allocations: 681)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 926)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:01:15 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.9ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 2.7ms | Allocations: 646)
+Completed 200 OK in 7ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 890)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:12 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.2ms | Allocations: 304)
+  Rendered layout layouts/application.html.erb (Duration: 3.8ms | Allocations: 1046)
+Completed 200 OK in 6ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 1655)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:13 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1.1ms | Allocations: 657)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 902)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:19 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.5ms | Allocations: 304)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 1043)
+Completed 200 OK in 7ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 1652)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:32 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.0ms | Allocations: 307)
+  Rendered layout layouts/application.html.erb (Duration: 4.3ms | Allocations: 1054)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 1666)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:42 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.6ms | Allocations: 304)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 1055)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 1665)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:42 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | Allocations: 663)
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 909)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:42 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1.0ms | Allocations: 648)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 892)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:06:43 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 126)
+  Rendered layout layouts/application.html.erb (Duration: 1.3ms | Allocations: 645)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 889)
+
+
+Started GET "/" for 127.0.0.1 at 2024-03-26 17:07:10 +0500
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.1ms | Allocations: 304)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | Allocations: 1057)
+Completed 200 OK in 5ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 1666)
+
+
