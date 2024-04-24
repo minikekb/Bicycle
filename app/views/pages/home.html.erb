@@ -1,12 +1,43 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Название страницы</title>
-    <%= stylesheet_link_tag 'application', media: 'all' %> <!-- Подключение внешних стилей -->
+    <title>Ваш заголовок страницы</title>
+    <!-- Подключение стилей Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body>
-  <p class="font-bold italic text-3xl">Hello</p>
+
+<body class="bg-mainColor text-red-500">
+    <div class="px-2"> <!-- Внешние отступы -->
+        <!-- Обтекаемая шапка интернет-магазина -->
+        <header class="bg-slate-50 py-5 shadow-lg rounded-b-3xl"> <!-- rounded-b-3xl для более крупных углов снизу -->
+            <div class="container mx-auto">
+                <div class="flex justify-between items-center">
+                    <!-- Логотип интернет-магазина -->
+                    <span class="text-red-500 text-3xl font-bold">Bicycly</span>
+
+                    <!-- Меню навигации -->
+                    <div class="flex">
+                        <a href="#" class="text-red-500 ml-4">About</a>
+                        <a href="#" class="text-red-500 ml-4">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <!-- Основной контент страницы -->
+    <main class="container mx-auto">
+        <!-- Ваш основной контент здесь -->
+    </main>
 </body>
+
 </html>
+
+
+
+
+
+
