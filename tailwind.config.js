@@ -9,7 +9,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        mainColor: '#e2e2e2'
+        mainColor: '#eeeded'
+
       },
       padding: {
         big: '50px'

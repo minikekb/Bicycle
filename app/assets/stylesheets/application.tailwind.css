@@ -2,3 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-caret {
+  caret-color: red;
+}
