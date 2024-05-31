@@ -7,52 +7,51 @@
 </head>
 
 <body class="bg-mainColor text-gray-900">
-    <div class="px-2"> <!-- Внешние отступы -->
-        <!-- Обтекаемая шапка интернет-магазина -->
-        <header class="bg-slate-50 py-5 rounded-b-3xl"> <!-- rounded-b-3xl для более крупных углов снизу -->
-            <div class="container mx-auto">
-                <div class="flex justify-between items-center">
-                    <!-- Логотип интернет-магазина -->
+    <div class="flex ml-3 mr-3">
+        <!-- Шапка сайта -->
+        <header class="bg-slate-50 py-4 rounded-b-3xl w-full">
+            <div class="flex space-x-11">
+                <!-- Логотип интернет-магазина -->
+                <div class="flex-initial ml-16 flex items-center">
                     <a href="http://[::1]:5000" data-turbo="true">
                         <span class="text-red-500 text-3xl font-bold">Велик</span>
                     </a>
-                    <!-- Поле поиска -->
-                    <div class="w-1/2 bg-mainColor rounded-full px-4 py-3 flex items-center group">
-                        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-5 text-gray-400 group-focus-within:text-stone-700 transition-colors duration-75" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                        </svg>
-                        <input type="text" placeholder="Искать в Велике" class="w-full bg-transparent focus:outline-none pl-4 custom-caret" onfocus="iconFocus()" onblur="iconBlur()">
-                    </div>
-
-                    <!-- Поле для входа в аккаунт -->
-                    <div class="flex items-center">
-                        <button class="bg-mainColor text-gray-800 px-20 py-2 rounded-full">Войти</button>
-                    </div>
+                </div>
+                <!-- Поле поиска -->
+                <div class="flex-initial w-custom bg-mainColor rounded-full px-4 flex items-center w-1/2 group">
+                    <svg id="searchIcon" xmlns="http://www.w3.org/2000/svg" class="h-4 w-5 text-gray-400 transition-colors duration-75" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                    </svg>
+                    <input type="text" placeholder="Искать в Велике" style="font-size: 15px;" class="w-full bg-transparent focus:outline-none pl-2 custom-caret" onfocus="iconFocus()" onblur="iconBlur()">
+                </div>
+                <!-- Поле для входа в аккаунт -->
+                <div class="flex-initial flex items-center">
+                    <button class="bg-mainColor text-gray-800 px-20 py-3 rounded-full">Войти</button>
                 </div>
             </div>
         </header>
     </div>
 
     <!-- Основной контент страницы -->
-    <main class="container mx-auto">
+    <main>
         <turbo-frame id="main-frame">
             <!-- Включаем файл main_content.html.erb -->
             <%= render template: 'pages/main_content' %>
-
         </turbo-frame>
     </main>
 
     <script>
         function iconFocus() {
-            document.getElementById('searchIcon').classList.add('text-black');
+            document.getElementById('searchIcon').classList.add('text-stone-700');
             document.getElementById('searchIcon').classList.remove('text-gray-400');
         }
 
         function iconBlur() {
             document.getElementById('searchIcon').classList.add('text-gray-400');
-            document.getElementById('searchIcon').classList.remove('text-black');
+            document.getElementById('searchIcon').classList.remove('text-stone-700');
         }
     </script>
 </body>
 
 </html>
+

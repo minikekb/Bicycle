@@ -10,7 +10,6 @@ module.exports = {
     extend: {
       colors: {
         mainColor: '#eeeded'
-
       },
       padding: {
         big: '50px'
